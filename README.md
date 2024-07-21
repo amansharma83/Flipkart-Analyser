@@ -1,4 +1,4 @@
-# Flipkart-Analyser
+# Flipkart Analyser
 
 Developed a comprehensive SQL-based analytics system for Flipkart, including detailed reports on sales performance, customer behavior, and inventory levels.
 
